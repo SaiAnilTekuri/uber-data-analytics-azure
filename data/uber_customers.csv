@@ -1,0 +1,201 @@
+customer_id,name,city,join_date
+CUSTOMER_1,Jack Martin,Jeffreyberg,2024-09-29 21:23:12.416791
+CUSTOMER_2,Jonathan Andrade,East Matthew,2024-11-06 21:23:12.416821
+CUSTOMER_3,Sarah Hawkins,New Robertmouth,2024-12-27 21:23:12.416825
+CUSTOMER_4,Katie Fleming,Stoneland,2024-08-26 21:23:12.416828
+CUSTOMER_5,Paul Rush,Katherineberg,2024-03-25 21:23:12.416831
+CUSTOMER_6,Alicia Carrillo,Martinezchester,2024-08-12 21:23:12.416835
+CUSTOMER_7,Jose Vaughn,South Reneeborough,2024-05-01 21:23:12.416838
+CUSTOMER_8,Ann Schultz,Lake Ryan,2024-06-19 21:23:12.416844
+CUSTOMER_9,Christina Phelps,South Ashleyfort,2025-01-07 21:23:12.416850
+CUSTOMER_10,Tracy Berry,Port Michael,2024-11-27 21:23:12.416853
+CUSTOMER_11,Nathan Williams,Annetteberg,2025-01-18 21:23:12.416856
+CUSTOMER_12,Heather King,Port Mary,2024-06-05 21:23:12.416859
+CUSTOMER_13,Samuel Rodriguez,West John,2024-02-22 21:23:12.416862
+CUSTOMER_14,Richard Carroll,Davischester,2025-01-07 21:23:12.416866
+CUSTOMER_15,Teresa Evans,North Robinmouth,2024-12-09 21:23:12.416868
+CUSTOMER_16,Christopher Craig,Stevenberg,2024-07-20 21:23:12.416871
+CUSTOMER_17,Savannah Kelley,Staceyview,2025-01-05 21:23:12.416875
+CUSTOMER_18,Patrick Perez,Boylefort,2024-12-19 21:23:12.416878
+CUSTOMER_19,Bryan Kim,Smithmouth,2024-06-28 21:23:12.416881
+CUSTOMER_20,Christina Hamilton,Davistown,2024-07-16 21:23:12.416884
+CUSTOMER_21,Joseph Fry,South Patrick,2024-11-02 21:23:12.416887
+CUSTOMER_22,Adam Woods,West Toddborough,2024-02-07 21:23:12.416890
+CUSTOMER_23,Billy Carr,Perezstad,2024-04-02 21:23:12.416893
+CUSTOMER_24,Sarah Gould,Sherristad,2024-04-04 21:23:12.416896
+CUSTOMER_25,Robert Anderson III,South Justin,2024-03-16 21:23:12.416899
+CUSTOMER_26,Jeffrey Armstrong,Bauerville,2024-02-14 21:23:12.416902
+CUSTOMER_27,Sheila Pena,East James,2024-02-09 21:23:12.416905
+CUSTOMER_28,Michelle Johnson,Lewisport,2024-06-18 21:23:12.416909
+CUSTOMER_29,Jamie Barry,North Deborahchester,2024-03-23 21:23:12.416912
+CUSTOMER_30,Alyssa Frederick,Maryport,2024-08-03 21:23:12.416915
+CUSTOMER_31,Elizabeth Williams,New Daniel,2024-08-26 21:23:12.416918
+CUSTOMER_32,Jacob Johnson,Thomasland,2024-08-15 21:23:12.416921
+CUSTOMER_33,Roy Clarke,West Evan,2024-10-23 21:23:12.416924
+CUSTOMER_34,John Peterson,Williamschester,2024-02-24 21:23:12.416927
+CUSTOMER_35,Donna Melton,West Joannaborough,2024-05-04 21:23:12.416930
+CUSTOMER_36,Jessica Sanchez,North Annaborough,2024-12-23 21:23:12.416933
+CUSTOMER_37,Christopher Burch,Youngshire,2024-06-08 21:23:12.416936
+CUSTOMER_38,John Johnson,Port Crystalport,2024-04-17 21:23:12.416939
+CUSTOMER_39,Kirk Smith,Raymondport,2024-11-26 21:23:12.416942
+CUSTOMER_40,Kelsey Kidd,Destinyhaven,2024-12-16 21:23:12.416945
+CUSTOMER_41,Kathy Smith,Vazquezton,2024-02-10 21:23:12.416948
+CUSTOMER_42,Linda Gonzales,Odomton,2024-06-07 21:23:12.416951
+CUSTOMER_43,Holly Robinson,North Alexanderland,2024-12-14 21:23:12.416954
+CUSTOMER_44,Jennifer Hanson,Oconnellton,2024-06-13 21:23:12.416957
+CUSTOMER_45,John Thornton,West Isaactown,2024-08-27 21:23:12.416960
+CUSTOMER_46,Rebecca Lopez,Justinbury,2024-02-17 21:23:12.416962
+CUSTOMER_47,Helen Shepherd,Harristown,2024-03-09 21:23:12.416965
+CUSTOMER_48,Mrs. Michelle Olson,Port David,2024-02-04 21:23:12.416968
+CUSTOMER_49,Shannon Simpson,West Marcus,2024-06-08 21:23:12.416971
+CUSTOMER_50,Mike Mason,Danielhaven,2024-06-06 21:23:12.416974
+CUSTOMER_51,Christopher Smith,Port Jennifer,2024-10-06 21:23:12.416977
+CUSTOMER_52,Nancy Robinson,South Victor,2024-10-10 21:23:12.416980
+CUSTOMER_53,Jeremy Ferguson,Sabrinaland,2024-11-20 21:23:12.416983
+CUSTOMER_54,Crystal Mckenzie,Tanyafurt,2024-03-23 21:23:12.416986
+CUSTOMER_55,Kelly Friedman,West Tylerfurt,2024-09-22 21:23:12.416989
+CUSTOMER_56,Benjamin Garza,Ashleymouth,2024-07-30 21:23:12.416992
+CUSTOMER_57,Andrew Payne,Adamsfort,2024-07-16 21:23:12.416995
+CUSTOMER_58,Kimberly Dawson,Robertsside,2024-10-31 21:23:12.416998
+CUSTOMER_59,Kim Peterson,Brianborough,2024-02-09 21:23:12.417001
+CUSTOMER_60,Sarah Clark,North Davidfort,2024-02-27 21:23:12.417004
+CUSTOMER_61,Christina Clark,Port Brent,2024-08-16 21:23:12.417007
+CUSTOMER_62,Anthony Goodman,Port Maureenfort,2024-08-19 21:23:12.417010
+CUSTOMER_63,Gregory Smith,West Jessicaland,2024-06-14 21:23:12.417013
+CUSTOMER_64,Kenneth Baker,Jeffreybury,2024-05-28 21:23:12.417016
+CUSTOMER_65,Krista Bishop,Terrybury,2025-01-17 21:23:12.417019
+CUSTOMER_66,Richard Whitaker,Kennethshire,2024-12-30 21:23:12.417022
+CUSTOMER_67,Ryan Lee,Youngbury,2024-06-03 21:23:12.417025
+CUSTOMER_68,Marie Carroll,Elizabethmouth,2024-12-06 21:23:12.417028
+CUSTOMER_69,Sarah Cooke,Walkermouth,2024-08-06 21:23:12.417031
+CUSTOMER_70,Hunter Quinn,South Kristina,2024-06-01 21:23:12.417033
+CUSTOMER_71,Gina Nelson,Sandovalville,2024-06-10 21:23:12.417036
+CUSTOMER_72,Tony Tyler,East Shannonport,2024-11-06 21:23:12.417039
+CUSTOMER_73,Kimberly Carey,North Thomas,2024-09-10 21:23:12.417041
+CUSTOMER_74,Christopher Martinez,Schmidtmouth,2024-08-07 21:23:12.417044
+CUSTOMER_75,Colleen Singleton,Port Ashleystad,2024-03-29 21:23:12.417047
+CUSTOMER_76,Steven Austin,Port Gregoryfurt,2024-04-13 21:23:12.417050
+CUSTOMER_77,Anthony Arias,Kimfurt,2024-11-28 21:23:12.417053
+CUSTOMER_78,Lisa Bennett,South Natashaborough,2024-05-17 21:23:12.417056
+CUSTOMER_79,Michelle Kelly,Catherineview,2024-12-11 21:23:12.417059
+CUSTOMER_80,Vanessa Caldwell,North Brian,2024-07-09 21:23:12.417061
+CUSTOMER_81,Lauren Foley,Mclaughlinview,2024-12-09 21:23:12.417064
+CUSTOMER_82,Mercedes Barrett,North Melissa,2024-08-19 21:23:12.417067
+CUSTOMER_83,Gabriel Farrell,Jonesport,2024-04-23 21:23:12.417070
+CUSTOMER_84,Richard Reyes,North Suzannetown,2024-03-06 21:23:12.417073
+CUSTOMER_85,Steven Ryan,Davidport,2024-12-27 21:23:12.417076
+CUSTOMER_86,Russell Meyer,Scottland,2024-08-31 21:23:12.417079
+CUSTOMER_87,Ashley Young,Catherineview,2024-05-05 21:23:12.417082
+CUSTOMER_88,Patrick Wright,West Christopher,2024-06-10 21:23:12.417085
+CUSTOMER_89,Kevin Hardin,Tommyborough,2024-07-11 21:23:12.417088
+CUSTOMER_90,Ricardo Shannon,East Jenniferborough,2024-04-05 21:23:12.417090
+CUSTOMER_91,Rhonda Paul,Hortonchester,2024-07-05 21:23:12.417093
+CUSTOMER_92,Catherine Buck,East Cassandraside,2024-10-02 21:23:12.417096
+CUSTOMER_93,William Peterson,North Victoriaport,2024-03-21 21:23:12.417099
+CUSTOMER_94,Christopher Harvey,New Mark,2024-09-30 21:23:12.417102
+CUSTOMER_95,Sheena Galvan,Port Pamela,2024-04-27 21:23:12.417105
+CUSTOMER_96,Ronald Fisher,New Jacqueline,2024-11-12 21:23:12.417108
+CUSTOMER_97,Daniel Martinez,Salazarview,2024-05-31 21:23:12.417111
+CUSTOMER_98,Scott Smith,Vasquezstad,2024-07-20 21:23:12.417114
+CUSTOMER_99,John Kennedy DVM,Harrisshire,2024-12-30 21:23:12.417117
+CUSTOMER_100,Amanda Tucker,Wilcoxport,2024-08-11 21:23:12.417119
+CUSTOMER_101,Elizabeth Brown,Stevemouth,2024-10-18 21:23:12.417122
+CUSTOMER_102,Shelby Sanchez,West Morganchester,2024-02-12 21:23:12.417125
+CUSTOMER_103,Jennifer Silva,West Charlesbury,2024-04-05 21:23:12.417128
+CUSTOMER_104,Connor Simmons,North Daniel,2024-06-26 21:23:12.417131
+CUSTOMER_105,Kevin Smith,Lake Kevinmouth,2024-06-24 21:23:12.417134
+CUSTOMER_106,Scott Miller,Jennyberg,2024-04-17 21:23:12.417137
+CUSTOMER_107,Lori Fox,Caitlinshire,2024-08-10 21:23:12.417140
+CUSTOMER_108,Jim Martin,South Nathanfort,2024-04-29 21:23:12.417143
+CUSTOMER_109,Eric Oliver,Robinsonview,2024-02-12 21:23:12.417146
+CUSTOMER_110,Colleen Carey,Port Coreyshire,2024-10-04 21:23:12.417149
+CUSTOMER_111,Edwin Gutierrez,South Tinahaven,2024-11-05 21:23:12.417152
+CUSTOMER_112,Keith Edwards,West Matthew,2024-02-28 21:23:12.417155
+CUSTOMER_113,Barbara Allen,Charlesview,2024-02-25 21:23:12.417157
+CUSTOMER_114,Larry Carson,Port Timothyville,2024-12-24 21:23:12.417160
+CUSTOMER_115,James Ford,New Jennifer,2024-02-03 21:23:12.417163
+CUSTOMER_116,Steven Mills,Lucashaven,2024-04-14 21:23:12.417166
+CUSTOMER_117,Kyle Lewis,Veronicatown,2024-05-28 21:23:12.417169
+CUSTOMER_118,Joann Reese,New Jenniferland,2024-12-05 21:23:12.417172
+CUSTOMER_119,Paul Morales,New Tracie,2024-04-04 21:23:12.417175
+CUSTOMER_120,Leslie Larson,South Harryview,2024-04-02 21:23:12.417178
+CUSTOMER_121,Jesus Reed,Duranberg,2024-06-09 21:23:12.417181
+CUSTOMER_122,Mrs. Sara Houston DDS,Leonardstad,2024-08-19 21:23:12.417184
+CUSTOMER_123,Catherine Wilson,South Stacey,2024-04-23 21:23:12.417187
+CUSTOMER_124,Lori Thompson,East Nathanville,2024-12-14 21:23:12.417189
+CUSTOMER_125,Yvette Webb,Port Amandamouth,2024-06-19 21:23:12.417192
+CUSTOMER_126,Gabriel Richardson,Brianmouth,2024-11-03 21:23:12.417195
+CUSTOMER_127,Thomas Allen,Port Christopher,2024-08-28 21:23:12.417198
+CUSTOMER_128,Thomas Jones,North Toddfurt,2024-07-09 21:23:12.417200
+CUSTOMER_129,Kimberly Barnes,Shawnland,2024-12-28 21:23:12.417203
+CUSTOMER_130,Selena Johnson,Clairemouth,2024-04-01 21:23:12.417207
+CUSTOMER_131,Christine Stewart,East Stephen,2024-12-08 21:23:12.417210
+CUSTOMER_132,Michael Davies,Stephensbury,2024-02-17 21:23:12.417212
+CUSTOMER_133,Don Ruiz,South Justin,2024-04-02 21:23:12.417215
+CUSTOMER_134,Benjamin Nixon,Charlesland,2024-07-22 21:23:12.417218
+CUSTOMER_135,Mary Warren,South Shannonburgh,2024-08-18 21:23:12.417221
+CUSTOMER_136,Lisa Delacruz,West Jessicaside,2024-05-24 21:23:12.417224
+CUSTOMER_137,Cody Holt,Johnstad,2024-03-08 21:23:12.417227
+CUSTOMER_138,Rhonda Brown,Marshalltown,2024-02-29 21:23:12.417229
+CUSTOMER_139,Cory Le,Tommyshire,2025-01-01 21:23:12.417232
+CUSTOMER_140,Jenny Pratt,Port Edwardfort,2024-12-17 21:23:12.417235
+CUSTOMER_141,Mark Lewis,Teresafurt,2024-10-13 21:23:12.417238
+CUSTOMER_142,Amber Douglas,Baileyport,2024-11-22 21:23:12.417241
+CUSTOMER_143,Justin Martinez,Adamland,2024-04-10 21:23:12.417243
+CUSTOMER_144,Kimberly Miller,Melaniestad,2024-03-13 21:23:12.417247
+CUSTOMER_145,Brian Welch,East Timothyhaven,2025-02-01 21:23:12.417250
+CUSTOMER_146,Adam Wallace,West Lisamouth,2024-11-18 21:23:12.417252
+CUSTOMER_147,Joseph Wheeler,Lake Erin,2024-02-29 21:23:12.417255
+CUSTOMER_148,Erik Brown,Loriport,2024-11-17 21:23:12.417258
+CUSTOMER_149,Brian Haney,New Nicholeland,2024-06-15 21:23:12.417261
+CUSTOMER_150,John Chapman,North Kristinaborough,2024-05-05 21:23:12.417264
+CUSTOMER_151,Steven Stanton,New Hannah,2024-09-05 21:23:12.417267
+CUSTOMER_152,Kelly Melton,East Carriechester,2024-07-17 21:23:12.417270
+CUSTOMER_153,Brent Mahoney,South Jordanland,2024-03-23 21:23:12.417273
+CUSTOMER_154,Jessica Miller,Port Michelleview,2024-04-12 21:23:12.417276
+CUSTOMER_155,Kyle Tucker,Wendyview,2024-06-18 21:23:12.417279
+CUSTOMER_156,Nicole Walton,Sextonborough,2024-10-24 21:23:12.417281
+CUSTOMER_157,Mary Mendoza,Port Christian,2024-10-19 21:23:12.417284
+CUSTOMER_158,Darryl Lee,Gillside,2024-02-19 21:23:12.417287
+CUSTOMER_159,Charles Hogan,New Bradystad,2024-08-23 21:23:12.417289
+CUSTOMER_160,Randy Gregory,Normaport,2024-09-01 21:23:12.417292
+CUSTOMER_161,Michelle Reyes MD,New Brittanyside,2024-04-16 21:23:12.417295
+CUSTOMER_162,Brandon Ramirez,Sandrachester,2024-02-20 21:23:12.417298
+CUSTOMER_163,Michael Jones,Jasminstad,2024-08-30 21:23:12.417301
+CUSTOMER_164,Laura Snow,Rachelhaven,2024-06-24 21:23:12.417304
+CUSTOMER_165,Mrs. Olivia Crane,Kristinview,2024-08-09 21:23:12.417307
+CUSTOMER_166,Edward Hanson,Millerborough,2024-12-18 21:23:12.417310
+CUSTOMER_167,Joshua Hawkins,East Robert,2024-04-09 21:23:12.417313
+CUSTOMER_168,Barbara Rojas,West Kristen,2025-01-28 21:23:12.417315
+CUSTOMER_169,Kelsey Mcknight PhD,North Natalieton,2024-03-25 21:23:12.417318
+CUSTOMER_170,William Johnson,Karenland,2024-05-16 21:23:12.417321
+CUSTOMER_171,Rebecca Jimenez,Marshallport,2024-07-10 21:23:12.417324
+CUSTOMER_172,Cindy Kent,Elizabethtown,2024-11-28 21:23:12.417327
+CUSTOMER_173,Albert Salinas,Victoriamouth,2024-09-04 21:23:12.417330
+CUSTOMER_174,Kyle Carter,Taylorhaven,2025-01-01 21:23:12.417333
+CUSTOMER_175,Tiffany Cruz,East Heidimouth,2024-07-27 21:23:12.417336
+CUSTOMER_176,Amy Berry,East Mark,2024-04-26 21:23:12.417339
+CUSTOMER_177,Leonard Haney,Andrewborough,2025-01-05 21:23:12.417342
+CUSTOMER_178,Zachary Park,Valerieton,2025-02-01 21:23:12.417345
+CUSTOMER_179,Martha Hebert,Lake Rebeccahaven,2024-02-07 21:23:12.417347
+CUSTOMER_180,Mary Miller,Underwoodmouth,2024-04-21 21:23:12.417350
+CUSTOMER_181,Tommy Scott,Dianamouth,2024-08-02 21:23:12.417353
+CUSTOMER_182,Pamela Martinez,North Mark,2024-12-07 21:23:12.417356
+CUSTOMER_183,Daniel Collins,Port Nicholas,2024-09-10 21:23:12.417359
+CUSTOMER_184,James Pierce,Johnsonfurt,2025-01-17 21:23:12.417362
+CUSTOMER_185,Marcus Ward,Port Wyattbury,2024-10-04 21:23:12.417365
+CUSTOMER_186,Susan Fox,Susanmouth,2024-06-25 21:23:12.417368
+CUSTOMER_187,Tracy Peters,East Anitaview,2024-02-08 21:23:12.417371
+CUSTOMER_188,Michelle Sanchez,Lake Ashleytown,2024-04-05 21:23:12.417374
+CUSTOMER_189,Angel Potts,Devinton,2024-07-15 21:23:12.417377
+CUSTOMER_190,Rebecca Thomas,East Megan,2024-03-18 21:23:12.417379
+CUSTOMER_191,Laurie Carter,South Alyssafurt,2024-08-23 21:23:12.417382
+CUSTOMER_192,Kenneth Mason,Parkerfort,2024-02-03 21:23:12.417385
+CUSTOMER_193,Brandi Kim,East Jeffreyfurt,2024-07-21 21:23:12.417388
+CUSTOMER_194,Jessica Garrett,Paulburgh,2024-07-09 21:23:12.417391
+CUSTOMER_195,Angela Garner,Holdenchester,2024-07-21 21:23:12.417393
+CUSTOMER_196,Nicole Mullen,East Danielfurt,2024-06-24 21:23:12.417396
+CUSTOMER_197,Ann Mejia,Kennethtown,2024-04-28 21:23:12.417399
+CUSTOMER_198,Nicole Park,Sheilaborough,2024-10-16 21:23:12.417402
+CUSTOMER_199,Raymond Wagner,Harrischester,2024-02-28 21:23:12.417405
+CUSTOMER_200,Christine Mack,Leachburgh,2024-11-05 21:23:12.417408
